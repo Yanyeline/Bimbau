@@ -1,0 +1,19 @@
+{
+  "name": "bimbauautomation",
+  "version": "1.0.0",
+  "description": "cadena de abastecimiento para el sector de la construccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "qa",
+    "automation"
+  ],
+  "author": "Yanyeline Bueno Loaiza",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  }
+}
