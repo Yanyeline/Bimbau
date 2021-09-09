@@ -4,7 +4,8 @@
   "description": "cadena de abastecimiento para el sector de la construccion",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "Cypress",
+    "cypress:open": "cypress open"
   },
   "keywords": [
     "cypress",
@@ -15,5 +16,10 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^8.3.1"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/Yanyeline/Bimbau"
+
   }
-}
+  }
