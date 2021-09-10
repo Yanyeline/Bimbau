@@ -1,7 +1,8 @@
 {
     
-    "chromeWebSecurity": false,
-    
+    "chromeWebSecurity": false,    
     "baseUrl": "https://app.bimbau.co/"
+    
+    
    
 }
